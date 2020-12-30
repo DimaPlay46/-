@@ -751,8 +751,6 @@ http://dmitry-tv.my1.ru/his/zabava/region/CHR/CH_OTR.m3u8
 http://dmitry-tv.my1.ru/his/zabava/region/PENZA/CH_OTR.m3u8
 #EXTINF:-1,ОТР-Vetta 24
 http://dmitry-tv.my1.ru/his/zabava/region/PERM/CH_OTR.m3u8
-#EXTINF:-1,ОТР-Самарское губернское телевидение
-http://dmitry-tv.my1.ru/his/zabava/region/SAMARA/CH_OTR.m3u8
 #EXTINF:-1,ОТР (Саранск)
 http://dmitry-tv.my1.ru/his/zabava/region/SRNK/CH_OTR.m3u8
 #EXTINF:-1,ОТР (Сыктывкар)
