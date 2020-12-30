@@ -72,7 +72,7 @@ http://83.251.245.28:9981/stream/channelid/1482508418
 #EXTINF:-1,Первый канал СНГ
 http://188.93.95.83/ort/mpegts
 #EXTINF:-1 ,Первый канал (Санкт-Петербург)
-http://188.243.104.183:81/udp/239.239.1.64:5239
+http://dmitry-tv.my1.ru/his/zabava/region/SPB/CH_1TV.m3u8
 #EXTINF:-1,Первый канал HD
 http://dmitry-tv.my1.ru/his/zabava/01/CH_1TVHD.m3u8
 #EXTINF:-1 ,Первый канал (+1)
@@ -174,7 +174,7 @@ http://dmitry-tv.my1.ru/his/zabava/region/PZAV/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Тамбов)
 http://live-gtrktambov.cdnvideo.ru/gtrktambov/r1tambov/playlist.m3u8
 #EXTINF:-1,Россия 1 (Ярославль)
-http://37.1.85.206:4022/udp/239.2.100.54:4321
+http://dmitry-tv.my1.ru/his/zabava/region/YARL/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Кубань)
 http://dmitry-tv.my1.ru/his/zabava/region/KRDAR/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Нижний Новгород)
@@ -190,7 +190,7 @@ http://dmitry-tv.my1.ru/his/zabava/region/CHERKS/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Ноябрьск)
 http://dmitry-tv.my1.ru/his/zabava/region/NBK/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Санкт-Петербург)
-http://188.242.240.21:81/udp/239.239.1.65:5239
+http://dmitry-tv.my1.ru/his/zabava/region/SPB/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Орел)
 http://dmitry-tv.my1.ru/his/zabava/region/ORL/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Новосибирск)
@@ -392,7 +392,7 @@ http://live-gtrktambov.cdnvideo.ru/gtrktambov/r24tambov/playlist.m3u8
 #EXTINF:-1,Россия 24 (Тверь)
 http://dmitry-tv.my1.ru/his/zabava/region/TVER/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Ярославль)
-http://37.1.85.206:4022/udp/239.2.100.58:4321
+http://dmitry-tv.my1.ru/his/zabava/region/YARL/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Чувашия)
 http://chgtrk.code-red.ru/hls/R24_720p/index.m3u8
 #EXTINF:-1,Россия 24 (Кубань)
@@ -412,7 +412,7 @@ http://dmitry-tv.my1.ru/his/zabava/region/SAMARA/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Чита)
 http://tv-online.gtrkchita.ru:8080/hls/r24-chita_576p.m3u8
 #EXTINF:-1,Россия 24 (Санкт-Петербург)
-http://188.134.81.150:81/udp/235.10.10.8:1234
+http://dmitry-tv.my1.ru/his/zabava/region/SPB/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Якутск)
 http://dmitry-tv.my1.ru/his/zabava/region/DV_YKT/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Новосибирск)
@@ -492,7 +492,7 @@ http://dmitry-tv.my1.ru/his/zabava/02/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ HD
 http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/134.m3u8
 #EXTINF:-1 ,НТВ Петербург
-http://188.243.104.183:81/udp/239.239.1.3:5239
+http://dmitry-tv.my1.ru/his/zabava/region/SPB/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ (+2)
 http://dmitry-tv.my1.ru/his/zabava/02/CH_NTV_2.m3u8
 #EXTINF:-1 ,НТВ (+4)
