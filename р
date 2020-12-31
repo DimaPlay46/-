@@ -689,8 +689,6 @@ http://dmitry-tv.my1.ru/his/zabava/region/NALCH/CH_OTR.m3u8
 http://dmitry-tv.my1.ru/his/zabava/region/DV_MGDN/CH_OTR.m3u8
 #EXTINF:-1,ОТР-Астрахань 24
 http://dmitry-tv.my1.ru/his/zabava/region/ASTRH/CH_OTR.m3u8
-#EXTINF:-1,ОТР-Кузбасс 24
-http://dmitry-tv.my1.ru/his/zabava/region/KEM_OBL/CH_OTR.m3u8
 #EXTINF:-1,ОТР-Енисей
 http://dmitry-tv.my1.ru/his/zabava/region/KRSK_KRAI/CH_OTR.m3u8
 #EXTINF:-1,ОТР-Самарское губернское телевидение
