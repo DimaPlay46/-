@@ -203,8 +203,6 @@ http://dmitry-tv.my1.ru/his/zabava/region/ORB/CH_ROSSIA1.m3u8
 http://dmitry-tv.my1.ru/his/zabava/region/IZHSK/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Элиста)
 http://dmitry-tv.my1.ru/his/zabava/region/ELISTA/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (Йошкар-Ола)
-http://dmitry-tv.my1.ru/his/zabava/region/YOLA/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Магас)
 http://dmitry-tv.my1.ru/his/zabava/region/MAGAS/CH_ROSSIA1_3.m3u8
 #EXTINF:-1,Россия 1 (+8) (Магадан)
