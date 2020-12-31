@@ -8,27 +8,13 @@ http://dmitry-tv.my1.ru/his/01/CH_360TV_NEWS.m3u8
 #EXTINF:-1 ,Ностальгия
 http://188.93.95.83/nostalgy/index.m3u8
 #EXTINF:-1,Nick Jr
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/220.m3u8
+http://185.140.53.177:9981/stream/channelid/1882171918
 #EXTINF:-1,Nickelodeon
 http://89.189.191.250/239.211.211.30/stream.m3u8
-#EXTINF:-1,NickToons
-http://e01.plius.tv:64144/l155/tracks-v1a2/mono.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/127.m3u8
-#EXTINF:-1,Cartoon Network (Иностранный)
-http://185.47.188.226/live/cartoon_network/playlist.m3u8
 #EXTINF:-1,Cartoon Network
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/144.m3u8
-#EXTINF:-1,Евроновости
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/189.m3u8
-#EXTINF:-1,RTД
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/197.m3u8
-#EXTINF:-1,КХЛ
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/166.m3u8
+http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8
 #EXTINF:-1, Матч!
 http://dmitry-tv.my1.ru/his/zabava/02/CH_MATCHTV.m3u8
-#EXTINF:-1, Матч! Боец
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/112.m3u8
 #EXTINF:-1,TiJi
 http://37.17.12.118:8906/play/a00j
 #EXTINF:-1 ,Живая планета
@@ -38,7 +24,7 @@ http://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/playlist_3.m3u8
 #EXTINF:-1 ,НСТ
 http://89.189.191.250/239.211.211.107/stream.m3u8
 #EXTINF:-1 ,Мульт
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/232.m3u8
+https://cdnhls.goodgame.ru/hls/143518.m3u8
 #EXTINF:-1 ,Мультиландия
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 #EXTINF:-1 ,Мультимузыка
@@ -48,17 +34,15 @@ http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/153.m3u8
 #EXTINF:-1 ,Bridge TV
 http://188.242.240.21:81/udp/239.239.3.12:5239
 #EXTINF:-1 ,Bridge TV Deluxe
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/92.m3u8
+http://109.111.191.108/239.211.211.53/stream.m3u8
 #EXTINF:-1,Bridge TV Шлягер
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVSHLYAGER/variant.m3u8
 #EXTINF:-1,Bridge TV Hits
 http://94.19.54.185:81/udp/239.239.3.69:5239
 #EXTINF:-1,Bridge TV Classic
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/272.m3u8
+http://188.243.243.181:4022/udp/239.239.3.78:5239
 #EXTINF:-1,Bridge TV Русский Хит
 http://94.19.83.135:81/udp/239.239.3.14:5239
-#EXTINF:-1,RTG HD
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/164.m3u8
 #EXTINF:-1,DELUXE
 http://hls.goodgame.ru/hls/180174.m3u8
 #EXTINF:-1,СТС Железногорск
@@ -67,8 +51,6 @@ http://hls.goodgame.ru/hls/181048.m3u8
 http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV-1.m3u8
 #EXTINF:-1 ,Первый канал
 http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV.m3u8
-#EXTINF:-1 ,Первый канал ВС Европа
-http://83.251.245.28:9981/stream/channelid/1482508418
 #EXTINF:-1,Первый канал СНГ
 http://188.93.95.83/ort/mpegts
 #EXTINF:-1 ,Первый канал (Санкт-Петербург)
@@ -84,7 +66,7 @@ http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/var
 #EXTINF:-1 ,Первый канал (+4)
 http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV_4.m3u8
 #EXTINF:-1,Первый канал HD (+4)
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/233.m3u8
+http://89.189.191.250/239.211.200.1/stream.m3u8
 #EXTINF:-1 ,Первый канал (+5)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
 #EXTINF:-1 ,Первый канал (+6)
@@ -95,12 +77,8 @@ http://dmitry-tv.my1.ru/his/zabava/region/DV_VLD/CH_1TV.m3u8
 http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV_8.m3u8
 #EXTINF:-1 ,Первый канал (+9)
 http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV_9.m3u8
-#EXTINF:-1,ОНТ (Беларусь)
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/21.m3u8
 #EXTINF:-1 ,Первый канал "Евразия"
 http://dmitry-tv.my1.ru/his/01/CH_1TV_EVRAZIYA_KZ.m3u8
-#EXTINF:-1 ,Primul in Moldova
-https://video.a-tv.md/hls/tv.m3u8
 #EXTINF:-1 ,Россия 1 (-1)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 ,Россия 1
@@ -265,12 +243,8 @@ http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1_8.m3u8
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1_9.m3u8
 #EXTINF:-1 ,Россия РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
-#EXTINF:-1 ,RTR Moldova
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/337.m3u8
 #EXTINF:-1 ,Беларусь РТР
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/23.m3u8
-#EXTINF:-1 ,Planeta RTR
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/224.m3u8
+http://srv1.iptv.monster/3789/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия К (-1)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIAK-1.m3u8
 #EXTINF:-1 ,Россия К
@@ -591,8 +565,6 @@ http://dmitry-tv.my1.ru/his/zabava/03/CH_TNT4_4.m3u8
 http://dmitry-tv.my1.ru/his/zabava/03/CH_TNT4_6.m3u8
 #EXTINF:-1 ,ТНТ4 (+7)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_TNT4_7.m3u8
-#EXTINF:-1,ТНТ Int.(Беларусь)
-http://87.252.227.150:7000/tnt
 #EXTINF:-1 ,Смайл ТВ/ТНТ4 (+2)
 rtmp://89.107.113.89:1935/live/ktv1
 #EXTINF:-1,ТНТ MUSIC
@@ -883,8 +855,6 @@ http://dmitry-tv.my1.ru/his/zabava/01/CH_CHE_4.m3u8
 http://dmitry-tv.my1.ru/his/zabava/01/CH_CHE_6.m3u8
 #EXTINF:-1 ,Че! (+7)
 http://dmitry-tv.my1.ru/his/zabava/01/CH_CHE_7.m3u8
-#EXTINF:-1 ,Перец International
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/121.m3u8
 #EXTINF:-1,Север/Че (+2) (Сургут)
 http://tvsever.ru:8080/hls/ach2.m3u8
 #EXTINF:-1 ,7 канал (Красноярск)
@@ -936,15 +906,13 @@ http://dmitry-tv.my1.ru/his/zabava/02/CH_KRASNODAR_KRDAR.m3u8
 #EXTINF:-1 ,#Ё Yotv24 HD (Самара)
 http://dmitry-tv.my1.ru/his/zabava/02/CH_YOTVHD_SAMARA.m3u8
 #EXTINF:-1,Беларусь 1
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/22.m3u8
+http://37.17.12.119:8901/play/a003
 #EXTINF:-1,Беларусь 2
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/24.m3u8
+http://82.209.201.57:7001/play/a008
 #EXTINF:-1,Беларусь 3
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/25.m3u8
+http://37.17.12.119:8901/play/a005
 #EXTINF:-1,Беларусь 4 Витебск
 https://flu.vtv.by/bt4-non-by/index.m3u8
-#EXTINF:-1,Беларусь 5
-https://95-213-224-186.livesports24.online/belarusss5.m3u8
 #EXTINF:-1,Беларусь 24
 http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
 #EXTINF:-1,СТВ Казахстан
