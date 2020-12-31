@@ -85,30 +85,20 @@ http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1-1.m3u8
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1.m3u8
 #EXTINF:-1,Россия 1 HD
 http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/137.m3u8
-#EXTINF:-1,Россия 1 (+4) (Барнаул)
-http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Белгород)
 http://dmitry-tv.my1.ru/his/zabava/region/BELG/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+1) (Астрахань)
-http://dmitry-tv.my1.ru/his/zabava/region/ASTRH/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Архангельск)
 http://dmitry-tv.my1.ru/his/zabava/region/ARKH/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Великий Новгород)
 http://dmitry-tv.my1.ru/his/zabava/region/NOVG/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Брянск)
 http://dmitry-tv.my1.ru/his/zabava/region/BRYANSK/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+4) (Абакан)
-http://dmitry-tv.my1.ru/his/zabava/region/ABAKAN/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Тверь)
 http://dmitry-tv.my1.ru/his/zabava/region/TVER/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+6) (Благовещенск)
-http://dmitry-tv.my1.ru/his/zabava/region/DV_BLAG/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Вайнах)
 http://live.chechensoft.ru:1935/vainahtv/vaynahtv/playlist.m3u8
 #EXTINF:-1,Россия 1 (Кабардино-Балкария)
 https://83tpjqlujs1.a.trbcdn.net/livemaster/tftrm1v2h9_stream1/playlist.m3u8
-#EXTINF:-1,Россия 1 (+4) (Красноярский край)
-http://dmitry-tv.my1.ru/his/zabava/region/KRSK_KRAI/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Коми)
 http://dmitry-tv.my1.ru/his/zabava/region/KOMI/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Киров)
@@ -125,24 +115,18 @@ http://dmitry-tv.my1.ru/his/zabava/region/SKTV/CH_ROSSIA1.m3u8
 http://sochi.camera:8080/cam_255/tracks-v1a1/index.m3u8
 #EXTINF:-1,Россия 1 (Ставрополь)
 http://dmitry-tv.my1.ru/his/zabava/region/STAVR/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+2) (Сургут)
-http://dmitry-tv.my1.ru/his/zabava/region/SUR/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Курск)
 http://dmitry-tv.my1.ru/his/zabava/region/KURSK/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Калуга)
 http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/kaluga_r1.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,Россия 1 (Липецк)
 http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:r1_lipetsk.smil/chunklist_b1500000.m3u8
-#EXTINF:-1,Россия 1 (+1) (Самара)
-http://dmitry-tv.my1.ru/his/zabava/region/SAMARA/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Марий Эл)
 http://gtrkmariel-live.cdnvideo.ru/gtrkmariel/gtrkmariel/playlist.m3u8
 #EXTINF:-1,Россия 1 (Пенза)
 http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:penza_r1.smil/chunklist_b1200000.m3u8
 #EXTINF:-1,Россия 1 (Ростовская область)
 http://dmitry-tv.my1.ru/his/zabava/region/RD_OBL/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+2) (Пермь)
-http://dmitry-tv.my1.ru/his/zabava/region/PERM/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Псков)
 http://dmitry-tv.my1.ru/his/zabava/region/PSKV/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Рязань)
@@ -157,58 +141,26 @@ http://dmitry-tv.my1.ru/his/zabava/region/YARL/CH_ROSSIA1.m3u8
 http://dmitry-tv.my1.ru/his/zabava/region/KRDAR/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Нижний Новгород)
 http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/smil:nnov.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Россия 1 (+2) (Челябинск)
-http://dmitry-tv.my1.ru/his/zabava/region/CHEL/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Чебоксары)
 http://dmitry-tv.my1.ru/his/zabava/region/CHR/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+6) (Чита)
-http://dmitry-tv.my1.ru/his/zabava/region/CHITA/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Черкесия)
 http://dmitry-tv.my1.ru/his/zabava/region/CHERKS/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+2) (Ноябрьск)
-http://dmitry-tv.my1.ru/his/zabava/region/NBK/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Санкт-Петербург)
 http://dmitry-tv.my1.ru/his/zabava/region/SPB/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Орел)
 http://dmitry-tv.my1.ru/his/zabava/region/ORL/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+4) (Новосибирск)
-http://dmitry-tv.my1.ru/his/zabava/region/NSK/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Волгодонск)
 http://dmitry-tv.my1.ru/his/zabava/region/V_RD/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+2) (Оренбург)
-http://dmitry-tv.my1.ru/his/zabava/region/ORB/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+1) (Ижевск)
-http://dmitry-tv.my1.ru/his/zabava/region/IZHSK/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Элиста)
 http://dmitry-tv.my1.ru/his/zabava/region/ELISTA/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Магас)
 http://dmitry-tv.my1.ru/his/zabava/region/MAGAS/CH_ROSSIA1_3.m3u8
-#EXTINF:-1,Россия 1 (+8) (Магадан)
-http://dmitry-tv.my1.ru/his/zabava/region/DV_MGDN/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+4) (Кемеровская область)
-http://dmitry-tv.my1.ru/his/zabava/region/KEM_OBL/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Саранск)
 http://dmitry-tv.my1.ru/his/zabava/region/SRNK/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Смоленск)
 http://dmitry-tv.my1.ru/his/zabava/region/SMOL/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+2) (Курган)
-http://dmitry-tv.my1.ru/his/zabava/region/KRG/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+4) (Томск)
-http://dmitry-tv.my1.ru/his/zabava/region/TOMSK/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+7) (Хабаровск)
-http://dmitry-tv.my1.ru/his/zabava/region/DV_HVSK/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+2) (Уфа)
-http://dmitry-tv.my1.ru/his/zabava/region/UFA/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+1) (Ульяновск)
-http://dmitry-tv.my1.ru/his/zabava/region/UL/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+5) (Бурятия)
-http://dmitry-tv.my1.ru/his/zabava/region/UUDE/CH_ROSSIA1_BURAT.m3u8
 #EXTINF:-1,Россия 1 (Тула)
 http://dmitry-tv.my1.ru/his/zabava/region/TULA/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+2) (Тюмень)
-http://dmitry-tv.my1.ru/his/zabava/region/TUM/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+4) (Горно-Алтайск)
-http://dmitry-tv.my1.ru/his/zabava/region/GALT/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Владимир)
 http://dmitry-tv.my1.ru/his/zabava/region/VLAD/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Владикавказ)
@@ -225,20 +177,68 @@ http://dmitry-tv.my1.ru/his/zabava/region/VGRAD/CH_ROSSIA1.m3u8
 http://dmitry-tv.my1.ru/his/zabava/region/DV_YKT/CH_ROSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 (+1) (Саратов)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1,Россия 1 (+1) (Ижевск)
+http://dmitry-tv.my1.ru/his/zabava/region/IZHSK/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+1) (Самара)
+http://dmitry-tv.my1.ru/his/zabava/region/SAMARA/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+1) (Астрахань)
+http://dmitry-tv.my1.ru/his/zabava/region/ASTRH/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+1) (Ульяновск)
+http://dmitry-tv.my1.ru/his/zabava/region/UL/CH_ROSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 (+2)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1_2.m3u8
+#EXTINF:-1,Россия 1 (+2) (Сургут)
+http://dmitry-tv.my1.ru/his/zabava/region/SUR/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+2) (Уфа)
+http://dmitry-tv.my1.ru/his/zabava/region/UFA/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+2) (Челябинск)
+http://dmitry-tv.my1.ru/his/zabava/region/CHEL/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+2) (Тюмень)
+http://dmitry-tv.my1.ru/his/zabava/region/TUM/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+2) (Пермь)
+http://dmitry-tv.my1.ru/his/zabava/region/PERM/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+2) (Ноябрьск)
+http://dmitry-tv.my1.ru/his/zabava/region/NBK/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+2) (Оренбург)
+http://dmitry-tv.my1.ru/his/zabava/region/ORB/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+2) (Курган)
+http://dmitry-tv.my1.ru/his/zabava/region/KRG/CH_ROSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 (+3) (Омск)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8?version=2
 #EXTINF:-1 ,Россия 1 (+4)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1_4.m3u8
+#EXTINF:-1,Россия 1 (+4) (Красноярский край)
+http://dmitry-tv.my1.ru/his/zabava/region/KRSK_KRAI/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+4) (Абакан)
+http://dmitry-tv.my1.ru/his/zabava/region/ABAKAN/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+4) (Горно-Алтайск)
+http://dmitry-tv.my1.ru/his/zabava/region/GALT/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+4) (Барнаул)
+http://dmitry-tv.my1.ru/his/zabava/region/BUL/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+4) (Томск)
+http://dmitry-tv.my1.ru/his/zabava/region/TOMSK/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+4) (Новосибирск)
+http://dmitry-tv.my1.ru/his/zabava/region/NSK/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+4) (Кемеровская область)
+http://dmitry-tv.my1.ru/his/zabava/region/KEM_OBL/CH_ROSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 (+5) (Иркутск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_IRK_ROSSIA1/variant.m3u8?version=2
+#EXTINF:-1,Россия 1 (+5) (Бурятия)
+http://dmitry-tv.my1.ru/his/zabava/region/UUDE/CH_ROSSIA1_BURAT.m3u8
 #EXTINF:-1 ,Россия 1 (+6)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1_6.m3u8
+#EXTINF:-1,Россия 1 (+6) (Чита)
+http://dmitry-tv.my1.ru/his/zabava/region/CHITA/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+6) (Благовещенск)
+http://dmitry-tv.my1.ru/his/zabava/region/DV_BLAG/CH_ROSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 (+7) (Приморье)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1_7.m3u8
+#EXTINF:-1,Россия 1 (+7) (Хабаровск)
+http://dmitry-tv.my1.ru/his/zabava/region/DV_HVSK/CH_ROSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 (+8) (Сахалин)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1_8.m3u8
+#EXTINF:-1,Россия 1 (+8) (Магадан)
+http://dmitry-tv.my1.ru/his/zabava/region/DV_MGDN/CH_ROSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 (+9) (Камчатка)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1_9.m3u8
 #EXTINF:-1 ,Россия РТР
