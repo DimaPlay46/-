@@ -347,6 +347,8 @@ http://dmitry-tv.my1.ru/his/zabava/region/SKTV/CH_ROSSIA24.m3u8
 http://dmitry-tv.my1.ru/his/zabava/region/SUR/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Йошкар-Ола)
 http://dmitry-tv.my1.ru/his/zabava/region/YOLA/CH_ROSSIA24.m3u8
+#EXTINF:-1,Россия 24 (Сахалин)
+http://dmitry-tv.my1.ru/his/zabava/region/DV_SLIN/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Пермь)
 http://dmitry-tv.my1.ru/his/zabava/region/PERM/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Ростовская область)
@@ -444,7 +446,7 @@ http://dmitry-tv.my1.ru/his/zabava/02/CH_KARUSEL_6.m3u8
 #EXTINF:-1 ,Карусель (+7)
 http://dmitry-tv.my1.ru/his/zabava/02/CH_KARUSEL_7.m3u8
 #EXTINF:-1 ,Карусель (+8)
-http://dmitry-tv.my1.ru/his/zabava/02/CH_KARUSEL_8.m3u8
+http://dmitry-tv.my1.ru/his/zabava/region/DV_SLIN/CH_KARUSEL.m3u8
 #EXTINF:-1 ,Disney Channel (-1)
 http://dmitry-tv.my1.ru/his/zabava/01/CH_DISNEY-1.m3u8
 #EXTINF:-1 ,Disney Channel
