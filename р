@@ -11,18 +11,24 @@ http://188.93.95.83/nostalgy/index.m3u8
 http://185.140.53.177:9981/stream/channelid/1882171918
 #EXTINF:-1,Nickelodeon
 http://89.189.191.250/239.211.211.30/stream.m3u8
-#EXTINF:-1,Cartoon Network
-http://36.37.252.114:888/Apple/OneTV-090/playlist.m3u8
 #EXTINF:-1, Матч!
 http://dmitry-tv.my1.ru/his/zabava/02/CH_MATCHTV.m3u8
 #EXTINF:-1,TiJi
 http://37.17.12.118:8906/play/a00j
 #EXTINF:-1 ,Живая планета
 http://89.189.191.250/239.211.211.105/stream.m3u8
+#EXTINF:-1 ,IZ.RU
+http://hls-igi.cdnvideo.ru/igi/igi1_hq/chunklist.m3u8
+#EXTINF:-1 ,RT
+http://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
+#EXTINF:-1 ,RT Doc
+http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 #EXTINF:-1 ,Моя планета
 http://radio-live-mg.rtr-vesti.ru/live/smil:mplan.smil/playlist_3.m3u8
 #EXTINF:-1 ,НСТ
 http://89.189.191.250/239.211.211.107/stream.m3u8
+#EXTINF:-1 ,Мама
+http://89.189.191.250/239.211.211.7/stream.m3u8
 #EXTINF:-1 ,Мульт
 https://cdnhls.goodgame.ru/hls/143518.m3u8
 #EXTINF:-1 ,Мультиландия
@@ -462,7 +468,7 @@ http://dmitry-tv.my1.ru/his/zabava/02/CH_NTV-1.m3u8
 #EXTINF:-1 ,НТВ
 http://dmitry-tv.my1.ru/his/zabava/02/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ HD
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/134.m3u8
+https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/chunklist.m3u8
 #EXTINF:-1 ,НТВ Петербург
 http://dmitry-tv.my1.ru/his/zabava/region/SPB/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ (+2)
@@ -474,7 +480,9 @@ http://dmitry-tv.my1.ru/his/zabava/02/CH_NTV_6.m3u8
 #EXTINF:-1 ,НТВ (+7)
 http://dmitry-tv.my1.ru/his/zabava/02/CH_NTV_7.m3u8
 #EXTINF:-1,НТВ Мир
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/223.m3u8
+http://188.93.95.83/ntvmir/index.m3u8
+#EXTINF:-1,НТВ Мир Baltic
+http://cooltv.dyndns.tv:8200/udp/239.255.2.12:1234
 #EXTINF:-1,НТВ Право
 http://e01.plius.tv:64144/n151/index.m3u8
 #EXTINF:-1,НТВ Сериал
@@ -518,7 +526,7 @@ http://dmitry-tv.my1.ru/his/zabava/03/CH_STS_7.m3u8
 #EXTINF:-1, СТС International
 https://sc.id-tv.kz/STS_38_39.m3u8
 #EXTINF:-1 ,СТС Kids
-http://192.162.212.48/sts_kids/mpegts
+http://178.208.236.35:81/udp/239.72.4.133:1234
 #EXTINF:-1 ,СТС Love (-1)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_STSLOVE-1.m3u8
 #EXTINF:-1 ,СТС Love
