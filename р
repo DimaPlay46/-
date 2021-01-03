@@ -480,8 +480,6 @@ http://dmitry-tv.my1.ru/his/zabava/02/CH_NTV_6.m3u8
 #EXTINF:-1 ,НТВ (+7)
 http://dmitry-tv.my1.ru/his/zabava/02/CH_NTV_7.m3u8
 #EXTINF:-1,НТВ Мир
-http://188.93.95.83/ntvmir/index.m3u8
-#EXTINF:-1,НТВ Мир Baltic
 http://cooltv.dyndns.tv:8200/udp/239.255.2.12:1234
 #EXTINF:-1,НТВ Право
 http://e01.plius.tv:64144/n151/index.m3u8
