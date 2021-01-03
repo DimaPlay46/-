@@ -89,8 +89,6 @@ http://dmitry-tv.my1.ru/his/01/CH_1TV_EVRAZIYA_KZ.m3u8
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1.m3u8
-#EXTINF:-1,Россия 1 HD
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/137.m3u8
 #EXTINF:-1,Россия 1 (Белгород)
 http://dmitry-tv.my1.ru/his/zabava/region/BELG/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Архангельск)
@@ -115,8 +113,6 @@ http://dmitry-tv.my1.ru/his/zabava/region/KOSTROMA/CH_ROSSIA1.m3u8
 http://dmitry-tv.my1.ru/his/zabava/region/KLGR/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Казань)
 http://dmitry-tv.my1.ru/his/zabava/region/KZN/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (Сыктывкар)
-http://dmitry-tv.my1.ru/his/zabava/region/SKTV/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Сочи)
 http://sochi.camera:8080/cam_255/tracks-v1a1/index.m3u8
 #EXTINF:-1,Россия 1 (Ставрополь)
@@ -321,8 +317,6 @@ http://dmitry-tv.my1.ru/his/zabava/region/DV_BLAG/CH_ROSSIA24.m3u8
 http://dmitry-tv.my1.ru/his/zabava/region/GALT/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Ижевск)
 http://dmitry-tv.my1.ru/his/zabava/region/IZHSK/CH_ROSSIA24.m3u8
-#EXTINF:-1,Россия 24 (Сыктывкар)
-http://dmitry-tv.my1.ru/his/zabava/region/SKTV/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Сургут)
 http://dmitry-tv.my1.ru/his/zabava/region/SUR/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Йошкар-Ола)
