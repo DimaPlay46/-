@@ -173,8 +173,6 @@ http://dmitry-tv.my1.ru/his/zabava/region/IVAN/CH_ROSSIA1.m3u8
 http://dmitry-tv.my1.ru/his/zabava/region/VOL/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (Волгоград)
 http://dmitry-tv.my1.ru/his/zabava/region/VGRAD/CH_ROSSIA1.m3u8
-#EXTINF:-1,Россия 1 (+6) (Якутск)
-http://dmitry-tv.my1.ru/his/zabava/region/DV_YKT/CH_ROSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 (+1) (Саратов)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8?version=2
 #EXTINF:-1,Россия 1 (+1) (Ижевск)
@@ -231,6 +229,8 @@ http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1_6.m3u8
 http://dmitry-tv.my1.ru/his/zabava/region/CHITA/CH_ROSSIA1.m3u8
 #EXTINF:-1,Россия 1 (+6) (Благовещенск)
 http://dmitry-tv.my1.ru/his/zabava/region/DV_BLAG/CH_ROSSIA1.m3u8
+#EXTINF:-1,Россия 1 (+6) (Cаха)
+http://dmitry-tv.my1.ru/his/zabava/region/DV_YKT/CH_ROSSIA1.m3u8
 #EXTINF:-1 ,Россия 1 (+7) (Приморье)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1_7.m3u8
 #EXTINF:-1,Россия 1 (+7) (Хабаровск)
