@@ -85,6 +85,8 @@ http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV_8.m3u8
 http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV_9.m3u8
 #EXTINF:-1 ,Первый канал "Евразия"
 http://dmitry-tv.my1.ru/his/01/CH_1TV_EVRAZIYA_KZ.m3u8
+#EXTINF:-1 ,ОНТ (Беларусь)
+http://foreign-free.persik.tv:82/live/Ch74/playlist.m3u8?securehash=k3nqkPKuuCFQ-dolH1SVqsLdLu-4Cmzkw58c8q_5Vzs%3D&secureendtime=1610801233&securestarttime=1610714833&secureuserid=291680&UserID=291680&device_code=playlist&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210258%22%7D
 #EXTINF:-1 ,Россия 1 (-1)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 ,Россия 1
@@ -929,6 +931,8 @@ http://dmitry-tv.my1.ru/his/zabava/02/CH_MUZTV_4.m3u8
 http://dmitry-tv.my1.ru/his/zabava/02/CH_MUZTV_6.m3u8
 #EXTINF:-1 ,МУЗ ТВ (+7)
 http://dmitry-tv.my1.ru/his/zabava/02/CH_MUZTV_7.m3u8
+#EXTINF:-1 ,БЕЛМУЗ ТВ
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiTGludXgiLCJ1c2VyX3VpZCI6ImFub255bW91c18wOWJiMTc4NC01YWUxLTQ0MzMtYjkxNC0zMzZkZGRmNjMwOTMiLCJwcm90b2NvbCI6ImhscyIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6ImI1MDZjM2EwLTA2ZjItNDQ4ZC04MTBhLWJmODI2ZDEzNDU5MyIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLWlwdHYudm9rYS50diIsImlwX2FkZHJlc3MiOiI4OS4xNjMuMjQyLjY3IiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMS0wMS0xNlQxMjo0OTozNVoiLCJzdHJlYW1fbmFtZSI6Ijk2NiIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCJ9/MCwCFAw1RoJoAgf3uZhThxB2YeoQpUNrAhQUisSf-AARJJMUC1go4Rj2TqLW4w%3D%3D/ip_v5/966.m3u8?b_app_channel_id=748f49b0-8441-4bd7-af69-69517eb2029a&b_app_id=voka_production&b_device_platform=Linux&b_device_uid=dd941a14-eb36-9945-67dd-309efbfbb99e&b_stream_sid=b506c3a0-06f2-448d-810a-bf826d134593&b_strmr_channel_id=966
 #EXTINF:-1 ,Девятка ТВ (Киров)
 http://dmitry-tv.my1.ru/his/zabava/01/CH_9TV_KIROV.m3u8
 #EXTINF:-1 ,Архыз 24 (Черкесия)
