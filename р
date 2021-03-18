@@ -53,6 +53,8 @@ http://94.19.83.135:81/udp/239.239.3.14:5239
 http://hls.goodgame.ru/hls/180174.m3u8
 #EXTINF:-1,СТС Железногорск
 http://hls.goodgame.ru/hls/181048.m3u8
+#EXTINF:-1,Staraya Karusel
+http://hls.goodgame.ru/hls/184660.m3u8
 #EXTINF:-1 ,Первый канал (-1)
 http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV-1.m3u8
 #EXTINF:-1 ,Первый канал
