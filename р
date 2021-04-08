@@ -6,15 +6,15 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1.m3u8
 #EXTINF:-1 ,360 Новости
 http://dmitry-tv.my1.ru/his/01/CH_360TV_NEWS.m3u8
 #EXTINF:-1 ,Ностальгия
-http://188.93.95.83/nostalgy/index.m3u8
+http://zigfreed.ru:1235/channel/118.m3u8
 #EXTINF:-1,Nick Jr
-http://185.140.53.177:9981/stream/channelid/1882171918
+http://zigfreed.ru:1235/channel/779.m3u8
 #EXTINF:-1,Nickelodeon
-http://89.189.191.250/239.211.211.30/stream.m3u8
+http://zigfreed.ru:1235/channel/780.m3u8
 #EXTINF:-1, Матч!
 http://dmitry-tv.my1.ru/his/zabava/02/CH_MATCHTV.m3u8
 #EXTINF:-1,TiJi
-http://37.17.12.118:8906/play/a00j
+http://zigfreed.ru:1235/channel/783.m3u8
 #EXTINF:-1 ,Живая планета
 http://89.189.191.250/239.211.211.105/stream.m3u8
 #EXTINF:-1 ,IZ.RU
@@ -39,16 +39,14 @@ http://89.189.191.250/239.211.211.12/stream.m3u8
 http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/153.m3u8
 #EXTINF:-1 ,Bridge TV
 http://188.242.240.21:81/udp/239.239.3.12:5239
-#EXTINF:-1 ,Bridge TV Deluxe
-http://109.111.191.108/239.211.211.53/stream.m3u8
 #EXTINF:-1,Bridge TV Шлягер
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BRIDGETVSHLYAGER/variant.m3u8
-#EXTINF:-1,Bridge TV Hits
-http://94.19.54.185:81/udp/239.239.3.69:5239
 #EXTINF:-1,Bridge TV Classic
 http://188.243.243.181:4022/udp/239.239.3.78:5239
 #EXTINF:-1,Bridge TV Русский Хит
 http://94.19.83.135:81/udp/239.239.3.14:5239
+#EXTINF:-1,Bridge TV Hits
+http://94.19.157.235:81/udp/239.239.3.69:5239
 #EXTINF:-1,DELUXE
 http://hls.goodgame.ru/hls/180174.m3u8
 #EXTINF:-1,СТС Железногорск
@@ -59,8 +57,6 @@ http://hls.goodgame.ru/hls/184660.m3u8
 http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV-1.m3u8
 #EXTINF:-1 ,Первый канал
 http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV.m3u8
-#EXTINF:-1,Первый канал СНГ
-http://188.93.95.83/ort/mpegts
 #EXTINF:-1 ,Первый канал (Санкт-Петербург)
 http://dmitry-tv.my1.ru/his/zabava/region/SPB/CH_1TV.m3u8
 #EXTINF:-1,Первый канал HD
@@ -74,7 +70,7 @@ http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_OMSK_1TV_OMSKOBL/var
 #EXTINF:-1 ,Первый канал (+4)
 http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV_4.m3u8
 #EXTINF:-1,Первый канал HD (+4)
-http://89.189.191.250/239.211.200.1/stream.m3u8
+http://zigfreed.ru:1235/channel/198.m3u8
 #EXTINF:-1 ,Первый канал (+5)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R03_OTT_SIB_IRK_1TV/variant.m3u8?version=2
 #EXTINF:-1 ,Первый канал (+6)
@@ -88,7 +84,7 @@ http://dmitry-tv.my1.ru/his/zabava/01/CH_1TV_9.m3u8
 #EXTINF:-1 ,Первый канал "Евразия"
 http://dmitry-tv.my1.ru/his/01/CH_1TV_EVRAZIYA_KZ.m3u8
 #EXTINF:-1 ,ОНТ (Беларусь)
-http://foreign-free.persik.tv:82/live/Ch74/playlist.m3u8?securehash=k3nqkPKuuCFQ-dolH1SVqsLdLu-4Cmzkw58c8q_5Vzs%3D&secureendtime=1610801233&securestarttime=1610714833&secureuserid=291680&UserID=291680&device_code=playlist&r=%7B%22type%22%3A%22channel%22%2C%22id%22%3A%2210258%22%7D
+http://zigfreed.ru:1235/channel/1465.m3u8
 #EXTINF:-1 ,Россия 1 (-1)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 ,Россия 1
@@ -250,7 +246,7 @@ http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIA1_9.m3u8
 #EXTINF:-1 ,Россия РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
 #EXTINF:-1 ,Беларусь РТР
-http://srv1.iptv.monster/3789/tracks-v1a1/mono.m3u8
+http://zigfreed.ru:1235/channel/1466.m3u8
 #EXTINF:-1 ,Россия К (-1)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_RUSSIAK-1.m3u8
 #EXTINF:-1 ,Россия К
@@ -325,8 +321,6 @@ http://dmitry-tv.my1.ru/his/zabava/region/IZHSK/CH_ROSSIA24.m3u8
 http://dmitry-tv.my1.ru/his/zabava/region/SUR/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Йошкар-Ола)
 http://dmitry-tv.my1.ru/his/zabava/region/YOLA/CH_ROSSIA24.m3u8
-#EXTINF:-1,Россия 24 (Сахалин)
-http://dmitry-tv.my1.ru/his/zabava/region/DV_SLIN/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Пермь)
 http://dmitry-tv.my1.ru/his/zabava/region/PERM/CH_ROSSIA24.m3u8
 #EXTINF:-1,Россия 24 (Ростовская область)
@@ -466,7 +460,7 @@ http://dmitry-tv.my1.ru/his/zabava/02/CH_NTV-1.m3u8
 #EXTINF:-1 ,НТВ
 http://dmitry-tv.my1.ru/his/zabava/02/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ HD
-https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/chunklist.m3u8
+http://zigfreed.ru:1235/channel/122.m3u8
 #EXTINF:-1 ,НТВ Петербург
 http://dmitry-tv.my1.ru/his/zabava/region/SPB/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ (+2)
@@ -478,15 +472,11 @@ http://dmitry-tv.my1.ru/his/zabava/02/CH_NTV_6.m3u8
 #EXTINF:-1 ,НТВ (+7)
 http://dmitry-tv.my1.ru/his/zabava/02/CH_NTV_7.m3u8
 #EXTINF:-1,НТВ Мир
-http://cooltv.dyndns.tv:8200/udp/239.255.2.12:1234
+http://zigfreed.ru:1235/channel/124.m3u8
 #EXTINF:-1,НТВ Право
-http://e01.plius.tv:64144/n151/index.m3u8
+http://zigfreed.ru:1235/channel/125.m3u8
 #EXTINF:-1,НТВ Сериал
-http://192.162.212.48/ntv_serial/mpegts
-#EXTINF:-1,НТВ Стиль
-http://192.162.212.48/ntv_stil/mpegts
-#EXTINF:-1,НТВ Хит
-http://89.189.191.250/239.211.211.181/stream.m3u8
+http://zigfreed.ru:1235/channel/126.m3u8
 #EXTINF:-1,НТВ Беларусь
 http://37.17.12.119:8901/play/a007
 #EXTINF:-1,NTV Moldova
@@ -521,8 +511,6 @@ http://dmitry-tv.my1.ru/his/zabava/03/CH_STS_6.m3u8
 http://dmitry-tv.my1.ru/his/zabava/03/CH_STS_7.m3u8
 #EXTINF:-1, СТС International
 https://sc.id-tv.kz/STS_38_39.m3u8
-#EXTINF:-1 ,СТС Kids
-http://178.208.236.35:81/udp/239.72.4.133:1234
 #EXTINF:-1 ,СТС Love (-1)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_STSLOVE-1.m3u8
 #EXTINF:-1 ,СТС Love
@@ -543,8 +531,6 @@ http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u
 http://dmitry-tv.my1.ru/his/zabava/03/CH_TNT-1.m3u8
 #EXTINF:-1 ,ТНТ
 http://dmitry-tv.my1.ru/his/zabava/03/CH_TNT.m3u8
-#EXTINF:-1 ,ТНТ HD
-http://user57332.clients-cdnnow.ru/stream/IFBYIR5OA7/135.m3u8
 #EXTINF:-1 ,ТНТ (+2)
 http://dmitry-tv.my1.ru/his/zabava/03/CH_TNT_2.m3u8
 #EXTINF:-1 ,ТНТ (+4)
@@ -864,7 +850,7 @@ http://dmitry-tv.my1.ru/his/zabava/01/CH_7CHANNEL_KRSK.m3u8
 #EXTINF:-1,8 канал (Витебск) HD
 http://95.46.208.8:24433/art
 #EXTINF:-1,8 канал (Беларусь)
-http://91.215.176.238:8000/8channel
+http://zigfreed.ru:1235/channel/1449.m3u8
 #EXTINF:-1 ,8 канал (Красноярск)
 http://dmitry-tv.my1.ru/his/zabava/01/CH_8CHANNEL_KRSK.m3u8
 #EXTINF:-1 ,8 канал (Новосибирск)
@@ -910,7 +896,7 @@ http://dmitry-tv.my1.ru/his/zabava/02/CH_YOTVHD_SAMARA.m3u8
 #EXTINF:-1,Беларусь 1
 http://37.17.12.119:8901/play/a003
 #EXTINF:-1,Беларусь 2
-http://82.209.201.57:7001/play/a008
+http://zigfreed.ru:1235/channel/1452.m3u8
 #EXTINF:-1,Беларусь 3
 http://37.17.12.119:8901/play/a005
 #EXTINF:-1,Беларусь 4 Витебск
@@ -933,8 +919,6 @@ http://dmitry-tv.my1.ru/his/zabava/02/CH_MUZTV_4.m3u8
 http://dmitry-tv.my1.ru/his/zabava/02/CH_MUZTV_6.m3u8
 #EXTINF:-1 ,МУЗ ТВ (+7)
 http://dmitry-tv.my1.ru/his/zabava/02/CH_MUZTV_7.m3u8
-#EXTINF:-1 ,БЕЛМУЗ ТВ
-http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiTGludXgiLCJ1c2VyX3VpZCI6ImFub255bW91c18wOWJiMTc4NC01YWUxLTQ0MzMtYjkxNC0zMzZkZGRmNjMwOTMiLCJwcm90b2NvbCI6ImhscyIsImRybSI6InNwYnR2Y2FzIiwic2Vzc2lvbl9pZCI6ImI1MDZjM2EwLTA2ZjItNDQ4ZC04MTBhLWJmODI2ZDEzNDU5MyIsImRvbWFpbl9uYW1lIjoic3RyZWFtaW5nLWlwdHYudm9rYS50diIsImlwX2FkZHJlc3MiOiI4OS4xNjMuMjQyLjY3IiwiZXhwaXJhdGlvbl9kYXRlIjoiMjAyMS0wMS0xNlQxMjo0OTozNVoiLCJzdHJlYW1fbmFtZSI6Ijk2NiIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCJ9/MCwCFAw1RoJoAgf3uZhThxB2YeoQpUNrAhQUisSf-AARJJMUC1go4Rj2TqLW4w%3D%3D/ip_v5/966.m3u8?b_app_channel_id=748f49b0-8441-4bd7-af69-69517eb2029a&b_app_id=voka_production&b_device_platform=Linux&b_device_uid=dd941a14-eb36-9945-67dd-309efbfbb99e&b_stream_sid=b506c3a0-06f2-448d-810a-bf826d134593&b_strmr_channel_id=966
 #EXTINF:-1 ,Девятка ТВ (Киров)
 http://dmitry-tv.my1.ru/his/zabava/01/CH_9TV_KIROV.m3u8
 #EXTINF:-1 ,Архыз 24 (Черкесия)
